@@ -9,7 +9,7 @@ This repository documents the configuration of a zero-cost, open-source data ana
 * **Processor:** Intel Core i5-6200U
 * **Current Specs:** 8GB RAM, 500GB Storage
 
-### Required Hardware Upgrades (To Prevent Bottlenecks)
+### Hardware Upgrades (To Prevent Bottlenecks)
 * Replace existing storage with a SATA Solid State Drive (SSD).
 * Upgrade memory to the motherboard maximum of 16GB RAM.
 * Install a replacement battery for portability.
